@@ -1,0 +1,10 @@
+#папка tmp
+2/1.2. Site for import/tmp/
+
+#файлы с суффикасми _old, _backup
+*_old.*
+*_backup.*
+
+#thumbs.db и .DS_store
+thumbs.db
+.DS_store
